@@ -6,17 +6,16 @@
      apoverty computes a series of poverty measures based on the (welfare) distribution described by
 varname. It is a revised and upgraded version of poverty published by Philippe Van Kerm.
 
-The poverty measures that can be computed by
+	The poverty measures that can be computed by
 
-     headcount ratio extreme poverty hratio aggregate poverty gap
-     poverty gap ratio income gap ratio Watts index
-     Sen index Takayama index Thon index,
+     - headcount ratio extreme poverty hratio aggregate poverty gap
+     - poverty gap ratio income gap ratio Watts index
+     - Sen index Takayama index Thon index,
 
-and series of Foster, Greer and Thorbecke indices with parameters :
-     0.5, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5
-     Clark et al. indices with parameters :
-     0.1, 0.25, 0.5, 0.75, 0.9
-
+	and series of Foster, Greer and Thorbecke indices with parameters :
+     - 0.5, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5
+     - Clark et al. indices with parameters :
+     - 0.1, 0.25, 0.5, 0.75, 0.9
 
      The poverty line is either directly specified by the user or computed relative to the median of
 varname (half or two-third), see under "options" below. The extreme poverty line is directly
