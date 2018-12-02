@@ -1,0 +1,34 @@
+* 00000001
+*! version 1.0.0
+* Do not erase or edit this file
+* It is used by Stata to track the ado and help
+* files you have installed.
+
+S http://fmwww.bc.edu/repec/bocode/a
+N apoverty.pkg
+D  2 Dec 2018
+U 1
+d 'APOVERTY': module to compute poverty measures
+d 
+d  apoverty computes a series of poverty measures based on the
+d (income) distribution described by varname. It is a revised and
+d upgraded version of poverty published by Philippe Van Kerm.
+d 
+d KW: poverty
+d KW: headcount
+d KW: Sen index
+d KW: income gap ratio
+d KW: Greer-Thorbecke index
+d KW: Watts index
+d KW: poverty gap
+d 
+d Requires: Stata version 7.0
+d 
+d Distribution-Date: 20070413
+d 
+d Author: Joao Pedro Azevedo, World Bank
+d Support: email jazevedo@@worldbank.org
+d 
+f a\apoverty.ado
+f a\apoverty.hlp
+e
