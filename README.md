@@ -3,8 +3,7 @@
 
 ## Abstract
 
-     apoverty computes a series of poverty measures based on the (welfare) distribution described by
-varname. It is a revised and upgraded version of poverty published by Philippe Van Kerm.
+     apoverty computes a series of poverty measures based on the (welfare) distribution described by varname. It is a revised and upgraded version of poverty published by Philippe Van Kerm.
 
 	The poverty measures that can be computed by
 
@@ -17,9 +16,7 @@ varname. It is a revised and upgraded version of poverty published by Philippe V
      - Clark et al. indices with parameters :
      - 0.1, 0.25, 0.5, 0.75, 0.9
 
-     The poverty line is either directly specified by the user or computed relative to the median of
-varname (half or two-third), see under "options" below. The extreme poverty line is directly
-speciefied as half of the poverty line used in the exercise.
+     The poverty line is either directly specified by the user or computed relative to the median of varname (half or two-third), see under "options" below. The extreme poverty line is directly speciefied as half of the poverty line used in the exercise.
 
 
 ## Suggested Citation
