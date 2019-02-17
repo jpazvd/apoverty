@@ -1,7 +1,7 @@
-v 0.0.0
-d 'APOVERTY' 
+v 3.0
+d 'APOVERTY': Stata module to compute poverty measures
 d 
-d Distribution-Date: 
+d Distribution-Date: 10apr2007
 d License: MIT
 d 
 F src/a/apoverty.ado
