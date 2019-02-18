@@ -30,3 +30,11 @@ poverty; headcount; Sen index; income gap ratio; Greer-Thorbecke index; Watts in
 ### Note: 
 This module should be installed from within Stata by typing "ssc install apoverty". Windows users should not attempt to download these files with a web browser.
 
+
+## Author: 
+
+  **João Pedro Azevedo**  
+  [jazevedo@worldbank.org](mailto:jazevedo@worldbank.org)  
+  World Bank  
+  [personal page](http://www.worldbank.org/en/about/people/j/joao-pedro-azevedo)  
+
